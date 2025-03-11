@@ -41,7 +41,6 @@ pip install pandas tensorflow scikit-learn
 - Implement validation mechanisms to monitor overfitting and model generalizability.  
 
 ### **5. Model Evaluation**  
-- Assess model performance using classification metrics such as **accuracy, precision, recall, and F1-score**.  
 - Generate a **classification report** to analyze prediction effectiveness.  
 - Identify potential model refinements to enhance predictive power.  
 
@@ -55,5 +54,3 @@ To execute the notebook, run each cell sequentially. Ensure that all dependencie
 - Deployment of the trained model as a **REST API** for real-world loan risk assessment applications.  
 
 ---
-
-This version maintains a **professional, technical, and precise tone** while making it **more aligned with an advanced academic audience** in finance, data science, or machine learning. Let me know if you'd like further refinements! 🚀
