@@ -1,7 +1,6 @@
 # neural-network-challenge-1
 
 # **Student Loan Risk Prediction Using Deep Learning**
-
 ## **Overview**  
 This project employs **deep learning methodologies** to assess student loan risk by leveraging historical borrower data. The primary objective is to develop a **neural network model** using TensorFlow and Keras to classify loans as **high-risk or low-risk**, based on critical borrower attributes. By identifying patterns in financial behavior, the model aims to enhance predictive accuracy in loan approval processes, ultimately improving risk assessment in student lending.  
 
